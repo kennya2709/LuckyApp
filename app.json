@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LuckyApp",
+    "slug": "LuckyApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LuckyApp"
+}
